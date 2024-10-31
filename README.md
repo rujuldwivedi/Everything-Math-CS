@@ -11,8 +11,6 @@ This repository is designed to inspire, explore, and share. It’s structured as
 **Contribute:** Your own math, code, or project ideas are welcome! Feel free to make pull requests or open issues to discuss more topics.  
 **Discuss:** Head over to the **Discussions** section to share thoughts, ask questions, or suggest new puzzles and topics.
 
----
-
 ### 📫 Connect & Explore More 
 
 Stay curious, and feel free to reach out if you’d like to discuss any of the topics here or share new ideas. Here’s to building a collection of insights that can inspire everyone!

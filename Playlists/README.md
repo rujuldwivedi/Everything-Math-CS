@@ -17,7 +17,8 @@ Welcome to the **Playlists** repository! Explore a curated list of YouTube playl
   *Step into the world of Angular and build robust applications.*
 - [Spring Boot Mastery: From Basics to Advanced](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue)  
   *Dive into Spring Boot for enterprise application development.*
-
+- [Tuto Full Stack](https://www.youtube.com/playlist?list=PLzKOkB99twFkIeefDUhijqMGejqdW0dPu)
+  *Make real world Full Stack applications.*
 ---
 
 ### 2. **Data and Databases**
@@ -57,6 +58,8 @@ Welcome to the **Playlists** repository! Explore a curated list of YouTube playl
   *Explore deep learning techniques for object detection.*  
 - [Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)  
   *Understand the principles and methods of time series analysis.*
+- [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+  *Build basic understanding of deep learning and neural networks.*
 
 ---
 

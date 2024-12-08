@@ -1,6 +1,6 @@
 # Causal Scripts
 
-![Project Banner](banner.png)
+![Project Banner](banner.webp)
 
 ## Table of Contents
 - [Overview](#overview)

@@ -1,16 +1,21 @@
-# 🎓 Causal Scripts 🧠
+# Causal Scripts
 
-Welcome to **Causal Scripts**! This repository is a blend of the intriguing, the insightful, and the downright fascinating. It’s a GitHub-hosted playground where math, computer science, sports, music, etc. all come together. Think of it as a digital journal where every entry captures a new idea or challenge—from puzzles to math formulations, unique coding solutions, and datasets that bring sports, music, and mathematics to life. 
+![Project Banner](banner.png)
 
-## 📁 **Repository Overview**
+## Table of Contents
+- [Overview](#overview)
+- [Usage](#usage)
+- [Connect](#connect)
 
-This repository is designed to inspire, explore, and share. It’s structured as a series of directories, each brimming with code snippets, explanations, and resources to make complex topics accessible and enjoyable.
+## Overview
 
-## 🎉 How to Get the Most Out of This Repository
+Welcome to **Causal Scripts**! This repository is a blend of all the useful resources that I could find on the internet. It’s a GitHub-hosted digital journal where every entry captures a helpful math formulations, unique coding solutions, and datasets that bring them to life. It is designed to inspire, explore, and share. It’s structured as a series of directories, each brimming with code snippets, explanations, and resources to make complex topics accessible and enjoyable.
 
-**Contribute:** Your own math, code, or project ideas are welcome! Feel free to make pull requests or open issues to discuss more topics.  
-**Discuss:** Head over to the **Discussions** section to share thoughts, ask questions, or suggest new puzzles and topics.
+## Usage
 
-### 📫 Connect & Explore More 
+**Contribute:** Your own math, code, or project ideas are welcome! Feel free to make pull requests or open issues.  
+**Discuss:** Hold discussions to share thoughts, ask questions, or suggest new puzzles and topics.
+
+## Connect
 
 Stay curious, and feel free to reach out if you’d like to discuss any of the topics here or share new ideas. Here’s to building a collection of insights that can inspire everyone!

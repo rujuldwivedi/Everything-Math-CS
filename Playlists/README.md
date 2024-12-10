@@ -58,11 +58,19 @@ Welcome to the **Playlists** repository! Explore a curated list of YouTube playl
   *Explore deep learning techniques for object detection.*  
 - [Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)  
   *Understand the principles and methods of time series analysis.*
+- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)  
+  *Basic to advanced concepts in Probability and Statistics.*
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)  
   *Build basic understanding of deep learning and neural networks.*
+- [Introduction to large language models](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)  
+  *Concise lectures from IIT Madras on LLMs.*
 
 ---
 
-### 6. **Operating Systems**
+### 6. **Computer Systems**
 - [Operating Systems for Placements 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)  
   *Master OS concepts crucial for placement interviews.*
+- [Information Retrieval Course](https://www.youtube.com/playlist?list=PL0ZVw5-GryEkGAQT7lX7oIHqyDPeUyOMQ)  
+  *A course all about information retrieval in different systems.*
+- [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)  
+  *MIT's course for Distributed Systems.*

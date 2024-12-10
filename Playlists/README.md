@@ -7,18 +7,18 @@ Welcome to the **Playlists** repository! Explore a curated list of YouTube playl
 ## 📘 Topics and Playlists
 
 ### 1. **Programming and Development**
-- *Learn Bash scripting essentials for Linux systems.*
+- *Learn Bash scripting essentials for Linux systems.*  
   [![Thumbnail for Bash Scripting](thumbnails/1.jpg)](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
-- *Master TypeScript from the ground up.*
-  [![Thumbnail for TypeScript](thumbnails/2.jpg)](https://www.youtube.com/playlist?list=PL_euSNU_eLbfJEwuNa43lM89yfev537Mj)  
-- *Comprehensive course for Java programming and data structures.*
-  [![Thumbnail for Java + DSA](thumbnails/3.jpg)](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)  
-- *Step into the world of Angular and build robust applications.*
-  [![Thumbnail for Angular](thumbnails/4.jpg)](https://www.youtube.com/playlist?list=PL1BztTYDF-QNlGo5-g65Xj1mINHYk_FM9)  
-- *Dive into Spring Boot for enterprise application development.*
-  [![Thumbnail for Spring Boot](thumbnails/5.jpg)](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue)  
-- *Make real world Full Stack applications.*
-  [![Thumbnail for Full Stack](thumbnails/6.jpg)](https://www.youtube.com/playlist?list=PLzKOkB99twFkIeefDUhijqMGejqdW0dPu)  
+- *Master TypeScript from the ground up.*  
+  [![Thumbnail for TypeScript](thumbnails/2.jpg)](https://www.youtube.com/playlist?list=PL_euSNU_eLbfJEwuNa43lM89yfev537Mj)
+- *Comprehensive course for Java programming and data structures.*  
+  [![Thumbnail for Java + DSA](thumbnails/3.jpg)](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- *Step into the world of Angular and build robust applications.*  
+  [![Thumbnail for Angular](thumbnails/4.jpg)](https://www.youtube.com/playlist?list=PL1BztTYDF-QNlGo5-g65Xj1mINHYk_FM9)
+- *Dive into Spring Boot for enterprise application development.*  
+  [![Thumbnail for Spring Boot](thumbnails/5.jpg)](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue)
+- *Make real world Full Stack applications.*  
+  [![Thumbnail for Full Stack](thumbnails/6.jpg)](https://www.youtube.com/playlist?list=PLzKOkB99twFkIeefDUhijqMGejqdW0dPu)
   
 
 ---
